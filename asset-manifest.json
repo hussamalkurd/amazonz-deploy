@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hussamalkurd/amazonz-deploy/static/css/main.36dca0ae.chunk.css",
+    "main.js": "/hussamalkurd/amazonz-deploy/static/js/main.ae2680ef.chunk.js",
+    "main.js.map": "/hussamalkurd/amazonz-deploy/static/js/main.ae2680ef.chunk.js.map",
+    "runtime-main.js": "/hussamalkurd/amazonz-deploy/static/js/runtime-main.fd2c6b28.js",
+    "runtime-main.js.map": "/hussamalkurd/amazonz-deploy/static/js/runtime-main.fd2c6b28.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/hussamalkurd/amazonz-deploy/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.3e79a2e3.chunk.js": "/hussamalkurd/amazonz-deploy/static/js/2.3e79a2e3.chunk.js",
+    "static/js/2.3e79a2e3.chunk.js.map": "/hussamalkurd/amazonz-deploy/static/js/2.3e79a2e3.chunk.js.map",
+    "index.html": "/hussamalkurd/amazonz-deploy/index.html",
+    "precache-manifest.c0eaa7c66eef6190ef46f38a7fcb79e6.js": "/hussamalkurd/amazonz-deploy/precache-manifest.c0eaa7c66eef6190ef46f38a7fcb79e6.js",
+    "service-worker.js": "/hussamalkurd/amazonz-deploy/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/hussamalkurd/amazonz-deploy/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.36dca0ae.chunk.css.map": "/hussamalkurd/amazonz-deploy/static/css/main.36dca0ae.chunk.css.map",
+    "static/js/2.3e79a2e3.chunk.js.LICENSE.txt": "/hussamalkurd/amazonz-deploy/static/js/2.3e79a2e3.chunk.js.LICENSE.txt",
+    "static/media/devgrub.png": "/hussamalkurd/amazonz-deploy/static/media/devgrub.bf79b675.png",
+    "static/media/evverest.png": "/hussamalkurd/amazonz-deploy/static/media/evverest.3da49c68.png",
+    "static/media/hussaa.png": "/hussamalkurd/amazonz-deploy/static/media/hussaa.ae592d58.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd2c6b28.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.3e79a2e3.chunk.js",
+    "static/css/main.36dca0ae.chunk.css",
+    "static/js/main.ae2680ef.chunk.js"
+  ]
+}
